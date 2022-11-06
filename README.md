@@ -1,25 +1,25 @@
 # Dataset-Daun-Kemangi-dan-Seledri_023_
-## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas C, Informatika, Universitas Muhammadiyah Malang. Hana' Zarifa Putri- 20201070311023, 
+## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas D, Informatika, Universitas Muhammadiyah Malang. Hana' Zarifa Putri- 20201070311023, 
 
 ## Meaning
 Python adalah bahasa pemograman tujuan umum tingkat tinggi .Filosofi desainnya menekankan keterbacaan kode dengan penggunaan lekukan signifikan. Python diketik secara dinamis dan dikumpulkan dari sampah. Ini mendukung beberapa paradigma pemograman, termasuk pemograman terstruktur (khususnya prosedural), berorientasi objek dan fungsional. ini perpustakaan standarnya yang komperhensif.
 
 ## Features
 
-- Dataset  yang berisi daun belimbing wuluh dan seledri
-- Bisa Membedakan daun belimbing wuluh dan seledri
+- Dataset  yang berisi daun kemangi dan seledri
+- Bisa Membedakan daun kemangi dan seledri
  
 ## Details
-Foto yang diambil adalah daun seledri(50) dan daun belimbing wuluh (50) yang diambil dengan
-handphone iphone 7+ dengan spesifikasi sbb:
+Foto yang diambil adalah daun seledri(50) dan daun kemangi (50) yang diambil dengan
+handphone poco f3 dengan spesifikasi sbb:
 Ukuran dan Berat
-Tinggi: 138,3 mm (5,44 inci)
-Lebar: 67,1 mm (2,64 inci)
-Tebal: 7,1 mm (0,28 inci)
-Berat: 138 gram (4,87 ounce)
+Tinggi: 
+Lebar: 
+Tebal: 
+Berat: 
 ROM : 128 GB
 Layar
-Layar Retina HD
+Layar 
 Layar lebar LCD
 Multi-Touch 4,7 inci (diagonal) dengan teknologi IPS
 Resolusi 1334 x 750 piksel pada 326 ppi

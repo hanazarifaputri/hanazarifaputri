@@ -63,7 +63,7 @@ Format gambar yang diambil: HEIF dan JPEG
 
 Dataset menggunakan bahasa pemograman open sorce antara lain: 
 - [Python](https://www.python.org/) 
-- Dan tentu saja dataset ini open source dengan [public repisitory](https://github.com/muhammadthoriqalfaruq/Dataset-Daun-Belimbing-Wuluh-dan-Seledri_117_132)
+- Dan tentu saja dataset ini open source dengan [public repisitory](https://github.com/hanazarifaputri/hanazarifaputri/blob/576d3c71f9a32c0a8564867dbcc5d6c5befbd5ce/README.md)
 
 ## Installation
 

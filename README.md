@@ -13,51 +13,49 @@ Python adalah bahasa pemograman tujuan umum tingkat tinggi .Filosofi desainnya m
 Foto yang diambil adalah daun seledri(50) dan daun kemangi (50) yang diambil dengan
 handphone poco f3 dengan spesifikasi sbb:
 Ukuran dan Berat
-Tinggi: 
-Lebar: 
-Tebal: 
-Berat: 
+Tinggi: 163,7 mm
+Lebar: 76,4 mm
+Tebal: 7,8 mm  
+Berat: 196 g
 ROM : 128 GB
 Layar
-Layar 
-Layar lebar LCD
-Multi-Touch 4,7 inci (diagonal) dengan teknologi IPS
-Resolusi 1334 x 750 piksel pada 326 ppi
-Rasio kontras 1400:1 (umum)
-Layar warna luas (P3)
-Kecerahan maks 625 cd/m2 (umum)
-Piksel domain-ganda untuk sudut pandang yang luas
-Lapisan oleophobic anti sidik jari
-Mendukung tampilan berbagai bahasa dan karakter secara bersamaan
-Pembesar Tampilan
-Reachability (Keterjangkauan)
-Tahan Cipratan, Air, dan Debu4
-Level IP67 (kedalaman maksimum 1 meter hingga selama 30 menit) menurut standar IEC 60529
-Chip
-Chip Fusion A10
-Kamera
-Kamera 12 MP
-Bukaan ƒ/1.8
-Zoom digital hingga 5x
-Penstabilan gambar optik
-Lensa enam elemen
-Flash True Tone Quad LED
-Panorama (hingga 63 MP)
-Penutup lensa kristal safir
-Sensor penerangan sisi belakang
-Filter IR hibrida
-Fokus otomatis dengan Focus Pixels
-Ketuk untuk fokus dengan Focus Pixels
-Live Photo dengan penstabilan
-Pengambilan foto dan Live Photo dengan rentang warna luas
-Pemetaan warna lokal yang lebih baik
-Kontrol pencahayaan
-HDR untuk foto
-Penstabilan gambar otomatis
-Mode beruntun
-Mode timer
-Penanda lokasi foto
-Format gambar yang diambil: HEIF dan JPEG
+Layar 6,67" Dynamic AMOLED DotDisplay
+2400x1080 FHD+
+Rasio aspek : 20:9
+Rasio Kontras : 5.000.000:1
+Kecerahan: 900nits(HBM umum),1300nits(Puncak) HDR10+
+Rasio refresh :120 Hz
+Rasio touch sampling: 360 Hz
+Tampilan Sinar Matahari 3.0
+360° Sensor cahaya ambien
+48MP Kamera utama
+f/1,79
+Piksel besar 1,6 μm (4-in-1)
+8MP Kamera ultra-wide
+FOV 119°
+f/2,2
+5MP Kamera telemakro
+f/2,4
+AF (3cm-7cm)
+Fitur fotografi kamera belakang
+Night mode 2.0
+Fitur video kamera belakang
+One-click AI Cinema: Magic Zoom, Slow Shutter, Time Freeze, Night Time-lapse, Parallel World, Freeze Frame Video
+Perekaman video belakang
+4K 3840x2160 | 30fps
+1080p 1920x1080 | 60fps, 30fps
+720p 1280x720 | 30fps
+Video gerakan lambat: 120/240/960fps, 720p/1080p
+20MP Kamera depan
+f/2,45
+Fitur fotografi kamera depan
+Mode Selfie Night
+Fitur video kamera depan
+Bingkai film
+Keamanan 
+Sensor sidik jari di bagian samping
+AI Face Unlock
+Colour palette daun #4573
 
 ## Tech
 

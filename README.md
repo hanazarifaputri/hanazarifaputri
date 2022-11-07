@@ -1,5 +1,5 @@
-# Dataset-Daun-Kemangi-dan-Seledri_023_
-## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas D, Informatika, Universitas Muhammadiyah Malang. Hana' Zarifa Putri- 20201070311023, 
+# Dataset-Daun-Kemangi-dan-Seledri_023_14820721002_10564110121
+## Kelompok Tugas Mata Kuliah Kecerdasan Buatan Kelas D, Informatika, Universitas Muhammadiyah Malang. Hana' Zarifa Putri- 20201070311023, NUR Khofifah Mintrika Dwi- 14820721002, Awaluddin - 105641104121
 
 ## Meaning
 Python adalah bahasa pemograman tujuan umum tingkat tinggi .Filosofi desainnya menekankan keterbacaan kode dengan penggunaan lekukan signifikan. Python diketik secara dinamis dan dikumpulkan dari sampah. Ini mendukung beberapa paradigma pemograman, termasuk pemograman terstruktur (khususnya prosedural), berorientasi objek dan fungsional. ini perpustakaan standarnya yang komperhensif.
